@@ -15,7 +15,7 @@ Support chat :- [@RobotTech_chat](https://t.me/robottech_chat)
 join this channel and chat for more help!
 
 # Deploy On Heroku 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TeamDaisyX/DaisyX.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shubham-king/sanki_spambot)
 
 Generate on Repl [![Run on Repl.it](https://repl.it/badge/github/YukkiBot/YukkiSpamBot)](https://replit.com/@shubham-king/Sanki-Robot?v=1)
 
