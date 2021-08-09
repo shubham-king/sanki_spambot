@@ -251,7 +251,7 @@ def errors_handler(func):
 
             pastelink = _format.paste_text(ftext)
             text = "**CatUserbot Error report**\n\n"
-            link = "[here](https://t.me/catuserbot_support)"
+            link = "[here](https://t.me/RobotTech_chat)"
             text += "If you wanna you can report it"
             text += f"- just forward this message {link}.\n"
             text += "Nothing is logged except the fact of error and date\n\n"
