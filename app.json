@@ -1,13 +1,13 @@
 {
-  "name": "YUKKI SPAM USERBOT",
+  "name": "SANKI SPAM USERBOT",
   "description": "A Powerful Telegram Spam Userbot. Based and codes from Catuserbot",
-  "logo": "https://telegra.ph/file/bf6f67d9f1f1106ca4dce.jpg",
+  "logo": "https://telegra.ph/file/76ff0910de5a0e0dfcd56.jpg",
   "keywords": [
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/sandy1709/catuserbot/",
+  "repository": "https://github.com/shubham-king/sanki_spambot",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -17,15 +17,17 @@
     },
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": "1273127"
+      "value": "",
+      "required": true
     } ,
     "SUDO_USERS": {
       "description": "Sudo Users IDs",
-      "value": "1562091466 1690949100"
+      "value": "",
+      "required": true
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": "2626aee4ea587947c6a703f1a0d6a3cc"
+      "value": ""
     },
     "STRING_SESSION": {
       "description": "Get this value by running python3 telesetup.py locally or https://generatestringsession.sandeep1709.repl.run",
@@ -33,11 +35,13 @@
     },
     "TG_BOT_USERNAME": {
       "description": "Needed for inline buttons maker. Make a bot at http://telegram.dog/BotFather and get the username of your bot",
-      "value": "@SpamforYukki1Bot"
+      "value": "@"
+      "required": true
     },
     "TG_BOT_TOKEN": {
       "description": "Needed for inline buttons maker. Make a bot at http://telegram.dog/BotFather and get the token of your bot.Worth it. Get it.",
-      "value": "1831700464:AAG-spzSLZ25-TBe191Ui3O2dg6Sc6pXlFc"
+      "value": ""
+      "required": true
     },
     "SUDO_COMMAND_HAND_LER": {
       "description": "Sudo Users Command Handler",
@@ -60,7 +64,7 @@
     },
     "HEROKU_APP_NAME": {
       "description": "YOUR app name ",
-      "value": "YukkiSpamBot",
+      "value": "sankispambot",
       "required": false
     },
     "TZ": {
@@ -70,7 +74,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "Use either goodcat or badcat .if you need custom deploy then type your git repo link",
-      "value": "Yukki",
+      "value": "Sanki",
       "required": false
     }
   },
