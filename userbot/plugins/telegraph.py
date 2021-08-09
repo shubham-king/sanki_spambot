@@ -24,7 +24,7 @@ from PIL import Image
 from telegraph import Telegraph, exceptions, upload_file
 from telethon import events
 
-from DaisyX.services.telethon import tbot as borg
+from userbot.telethon import tbot as borg
 
 telegraph = Telegraph()
 r = telegraph.create_account(short_name="DaisyX")
