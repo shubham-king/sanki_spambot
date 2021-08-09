@@ -25,3 +25,5 @@ Generate on Repl [![Run on Repl.it](https://repl.it/badge/github/YukkiBot/YukkiS
 [Mr India](https://t.me/Mr_Indias)
 
 and thanks to yukki and catuserbot for this files!
+
+# The files used is imported from yukkispambot
