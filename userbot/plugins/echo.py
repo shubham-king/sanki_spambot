@@ -1,7 +1,7 @@
 """
-created by @mrconfused and @sandy1709
-Idea by @BlazingRobonix
-
+created by @RobotTech_memeber
+Idea by SANKI PEOPLE
+join @RobotTech_official
 """
 
 import asyncio
