@@ -1,13 +1,13 @@
 {
-  "name": "YUKKI SPAM USERBOT",
+  "name": "SANKI SPAM USERBOT",
   "description": "A Powerful Telegram Spam Userbot. Based and codes from Catuserbot",
-  "logo": "https://telegra.ph/file/bf6f67d9f1f1106ca4dce.jpg",
+  "logo": "https://telegra.ph/file/bfb72a19a01f35af54809.jpg",
   "keywords": [
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/sandy1709/catuserbot/",
+  "repository": "https://github.com/shubham-king/sanki_spambot",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
