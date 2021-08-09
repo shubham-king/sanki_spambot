@@ -19,3 +19,9 @@ join this channel and chat for more help!
 
 Generate on Repl [![Run on Repl.it](https://repl.it/badge/github/YukkiBot/YukkiSpamBot)](https://replit.com/@shubham-king/Sanki-Robot?v=1)
 
+
+# Credits 
+[Shubham kumar](https://t.me/RobotTech_memeber)
+[Mr India](https://t.me/Mr_Indias)
+
+and thanks to yukki and catuserbot for this files!
