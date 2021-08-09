@@ -72,7 +72,7 @@ class Config(object):
     CLEAN_WELCOME = os.environ.get("CLEAN_WELCOME", True)
     # for custom thumb image set this with your required thumb telegraoh link
     THUMB_IMAGE = os.environ.get(
-        "THUMB_IMAGE", "https://telegra.ph/file/ca95524e4734b0d5461b5.jpg"
+        "THUMB_IMAGE", "https://telegra.ph/file/76ff0910de5a0e0dfcd56.jpg"
     )
     # set blacklist_chats where you do not want userbot's features
     UB_BLACK_LIST_CHAT = {
