@@ -21,7 +21,7 @@ Generate on Repl [![Run on Repl.it](https://repl.it/badge/github/YukkiBot/YukkiS
 
 
 # Credits 
-[Shubham kumar](https://t.me/RobotTech_memeber)\n
+[Shubham kumar](https://t.me/RobotTech_memeber) <br>
 [Mr India](https://t.me/Mr_Indias)
 
 and thanks to yukki and catuserbot for this files!
