@@ -3,7 +3,7 @@ from collections import deque
 
 from . import catub, edit_or_reply
 
-plugin_category = "fun"
+plugin_category = "plugins"
 
 
 @catub.cat_cmd(
