@@ -105,7 +105,7 @@ CMD_HELP.update(
         \n\n  •  **Synatax : **`.eval <expr>`:\
         \n  •  **Function : **__Execute Python script.__\
         \n\n  •  **Synatax : **`.exec <command>`:\
-        \n  •  **Function : **__Execute a Terminal command on catuserbot server and shows details.__\
+        \n  •  **Function : **__Execute a Terminal command on SANKI USERBOT server and shows details.__\
      "
     }
 )
