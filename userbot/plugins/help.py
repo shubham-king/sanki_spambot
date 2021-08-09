@@ -19,7 +19,7 @@ async def cmd_list(event):
     input_str = event.pattern_match.group(1)
     if input_str == "text":
         string = (
-            "Total {count} commands found in {plugincount} plugins of catuserbot\n\n"
+            "Total {count} commands found in {plugincount} plugins of SANKI USERBOT\n\n"
         )
         catcount = 0
         plugincount = 0
@@ -42,7 +42,7 @@ async def cmd_list(event):
                 .get("key")
             )
             url = f"https://nekobin.com/{key}"
-            reply_text = f"**All commands of the catuserbot can be seen [here]({url})**"
+            reply_text = f"**All commands of the SANKI USERBOT can be seen [here]({url})**"
             await event.edit(reply_text)
             return
         await event.edit(string.format(count=catcount, plugincount=plugincount))
@@ -89,7 +89,7 @@ async def info(event):
         return
     input_str = event.pattern_match.group(1)
     if input_str == "text":
-        string = "Total {count} commands found in {plugincount} sudo plugins of catuserbot\n\n"
+        string = "Total {count} commands found in {plugincount} sudo plugins of SANKI USERBOT\n\n"
         catcount = 0
         plugincount = 0
         for i in sorted(SUDO_LIST):
@@ -111,7 +111,7 @@ async def info(event):
                 .get("key")
             )
             url = f"https://nekobin.com/{key}"
-            reply_text = f"All commands of the catuserbot are [here]({url})"
+            reply_text = f"All commands of the SANKI USERBOT are [here]({url})"
             await event.reply(reply_text, link_preview=False)
             return
         await event.reply(
