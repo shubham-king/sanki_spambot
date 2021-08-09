@@ -9,7 +9,7 @@ import requests
 
 from . import ALIVE_NAME, catub, edit_or_reply
 
-plugin_category = "utils"
+plugin_category = "plugins"
 
 
 @catub.cat_cmd(
