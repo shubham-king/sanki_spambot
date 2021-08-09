@@ -7,7 +7,7 @@ import requests
 from ..sql_helper.globals import gvarstatus
 from . import catub, edit_delete, edit_or_reply
 
-plugin_category = "extra"
+plugin_category = "plugins"
 
 
 @catub.cat_cmd(
